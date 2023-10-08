@@ -20,3 +20,8 @@
 ```bash
     chmod +x rename_script.sh
 ```
+
+6. run script 
+```bash
+    ./rename_script.sh
+```
