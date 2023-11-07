@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Specify the folder where you want to perform the renaming
-target_dir="C:/Users/quay/Documents/practice"
+target_dir="C:/path/to/your/directory"
 
 # Check if the folder exists
 if [ -d "$target_dir" ]; then
