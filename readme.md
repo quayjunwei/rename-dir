@@ -14,7 +14,7 @@
     target_dir="/path/to/your/target/dir"
 ```
 
-4. ```^X``` then ```Y``` to exit text editor and save changes
+4. ```^X``` then ```Y``` to exit nano text editor and save changes
 
 5. make script executable with chmod
 ```bash
