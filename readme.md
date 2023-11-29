@@ -1,6 +1,8 @@
-# Getting started
+#Rename directory
 
-##### This script will go through each file and folder in the specified directory, replacing spaces with underscores and converting the names to lowercase. It checks if the new name is different from the current name before renaming to avoid unnecessary operations.
+This script will go through each file and folder in the specified directory, replacing spaces with underscores and converting the names to lowercase. It checks if the new name is different from the current name before renaming to avoid unnecessary operations.
+
+## Getting started
 
 1. CD into rename-dir directory
 
